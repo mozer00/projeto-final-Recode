@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+
+.navbar-nav .nav-link {
+    padding: 0.5rem 2rem;
+    font-size: 1.2rem; 
+  }
+
+.corpo {
+    background-image: url(./src/assets/img/casa-trabalhando-com-laptop.jpg);
+    background-size: cover;
+    border-radius: 60px;
+    padding-top: 200px;
+    width: auto;
+    height: 88vh; 
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.pcd1 {
+    padding: 1rem;
+    font-family: sans-serif;
+    font-size: 4.2rem;
+    font-weight: 700;
+    letter-spacing: 0;
+    max-width: 700px;    
+    text-shadow: 
+    -1px -1px 0px #ffffff8e, 
+    -1px 1px 0px #ffffff8e,                    
+     1px -1px 0px #ffffff8e,                  
+     1px 0px 0px #ffffff8e;
+}
